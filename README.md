@@ -84,3 +84,12 @@ When no prompt is provided, the skill generates using this default:
 
 > vintage retro poster design, aged paper texture, distressed print effect, muted warm color palette, classic typography layout, 1950s-1970s aesthetic, high contrast illustration style, collectible art print
 
+## Example Output
+
+```bash
+node vintagepostergenerator.js "vintage retro poster design, aged paper texture, distressed print effect, muted warm color palette, classic typography layout, 1950s-1970s aesthetic, high contrast illustration style, collectible art print"
+```
+
+![Example output](https://oss.talesofai.cn/picture/30b4936c-242d-4a3b-882d-70c82e8d6da4.webp)
+
+> Prompt: *"vintage retro poster design, aged paper texture, distressed print effect, muted warm color palette, classic typography layout, 1950s-1970s aesthetic, high contrast illustration style, collectible art print"*
