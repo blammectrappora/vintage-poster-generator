@@ -40,19 +40,19 @@ node vintagepostergenerator.js "<description>" --token YOUR_TOKEN [--size <size>
 
 ```bash
 # Classic travel poster
-node vintagepostergenerator.js "Paris travel poster, Eiffel Tower at sunset, art deco style" --token "$NETA_TOKEN"
+node vintagepostergenerator.js "Paris travel poster, Eiffel Tower at sunset, art deco style" --token YOUR_TOKEN
 
 # Retro music concert poster
-node vintagepostergenerator.js "jazz festival poster, 1960s style, bold geometric shapes, trumpet player silhouette" --token "$NETA_TOKEN"
+node vintagepostergenerator.js "jazz festival poster, 1960s style, bold geometric shapes, trumpet player silhouette" --token YOUR_TOKEN
 
 # Vintage national park poster
-node vintagepostergenerator.js "Yellowstone national park vintage poster, old faithful geyser, WPA style illustration" --token "$NETA_TOKEN"
+node vintagepostergenerator.js "Yellowstone national park vintage poster, old faithful geyser, WPA style illustration" --token YOUR_TOKEN
 
 # Landscape orientation
-node vintagepostergenerator.js "Route 66 road trip poster, desert highway, retro americana" --token "$NETA_TOKEN" --size landscape
+node vintagepostergenerator.js "Route 66 road trip poster, desert highway, retro americana" --token YOUR_TOKEN --size landscape
 
 # Tall format
-node vintagepostergenerator.js "1950s diner advertisement, neon signs, chrome details" --token "$NETA_TOKEN" --size tall
+node vintagepostergenerator.js "1950s diner advertisement, neon signs, chrome details" --token YOUR_TOKEN --size tall
 ```
 
 **Output:** Returns a direct image URL.
